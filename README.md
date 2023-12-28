@@ -1,6 +1,7 @@
-# Security Technical Implementation Guide (STIG)
+# Security Technical Implementation Guide (STIG) and STIG Viewer App
+![Screenshot 2023-12-28 153902](https://github.com/jmart375/STIG/assets/91294710/a112f221-047b-4c95-9de4-66885dea7721)
 
-A **Security Technical Implementation Guide (STIG)** is a set of guidelines and standards for securing software, hardware, and information systems within the Department of Defense (DoD). STIGs are developed by the Defense Information Systems Agency (DISA) to provide security configurations and best practices to ensure the security of DoD systems and networks. The primary goal of STIGs is to enhance the overall cybersecurity posture and compliance of systems used by the DoD.
+**Security Technical Implementation Guide (STIG)** is a set of guidelines and standards for securing software, hardware, and information systems within the Department of Defense (DoD). STIGs are developed by the Defense Information Systems Agency (DISA) to provide security configurations and best practices to ensure the security of DoD systems and networks. The primary goal of STIGs is to enhance the overall cybersecurity posture and compliance of systems used by the DoD.
 
 ## Key Aspects of STIG Process
 
@@ -39,3 +40,44 @@ A **Security Technical Implementation Guide (STIG)** is a set of guidelines and 
 ### Collaboration
 
 - STIG development involves collaboration between DISA, the vendor community, and subject matter experts to ensure comprehensive and effective security guidelines.
+
+
+
+
+# STIG Viewer App
+![e10ecedf553c8e4bd15f626dc7be1e404e0761f4bf6dcde775914dbb6ae27246_Screenshot_from_2022-07-21_17-50-34](https://github.com/jmart375/STIG/assets/91294710/05715f2e-3eed-4268-a4b7-678afbb21c09)
+
+
+The **STIG Viewer App** is a tool designed to assist users in viewing, searching, and analyzing Security Technical Implementation Guides (STIGs). It provides a user-friendly interface for accessing STIG documentation and facilitates ease of navigation through the guidelines.
+
+## Key Features
+
+1. **Document Viewer:**
+   - Allows users to view STIG documents in a readable format.
+
+2. **Search Functionality:**
+   - Enables users to search for specific security controls, settings, or keywords within STIG documents.
+
+3. **Filtering and Sorting:**
+   - Provides options for filtering and sorting STIG content for better accessibility.
+
+4. **User-Friendly Interface:**
+   - Designed for easy navigation and enhanced user experience.
+The **STIG Viewer App** is a tool designed to assist users in viewing, searching, and analyzing Security Technical Implementation Guides (STIGs). It provides a user-friendly interface for accessing STIG documentation and facilitates ease of navigation through the guidelines.
+
+## Key Features
+
+1. **Document Viewer:**
+   - Allows users to view STIG documents in a readable format.
+
+2. **Search Functionality:**
+   - Enables users to search for specific security controls, settings, or keywords within STIG documents.
+
+3. **Filtering and Sorting:**
+   - Provides options for filtering and sorting STIG content for better accessibility.
+
+4. **User-Friendly Interface:**
+   - Designed for easy navigation and enhanced user experience.
+  
+
+
